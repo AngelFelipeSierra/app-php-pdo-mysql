@@ -1,0 +1,17 @@
+{
+    "name": "skylab-188/app-php-pdo-mysql",
+    "description": "app php, mysql y pdo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "f"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./config",
+            "Models\\": "./models"
+        }
+    }
+}
